@@ -6,7 +6,7 @@
 __________________
 ## Amount Raised 
 Eclipse raised a total of $65M HackVC, Polychain Capital among other Investors 
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/2d2c5a3e-ae73-4991-ba2b-eb4eeb9de915)
+<img width="898" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/c4336c7a-ba61-4403-a87f-754a9fa2dddb">
 
 ----------------
 

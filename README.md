@@ -112,6 +112,9 @@ solana-keygen new -o /path-to-wallet/my-wallet.json
 
 
 Press ```ENTER``` ans save the Info 
+
+
+
 <img width="497" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/6630442d-d1e9-4eb0-add5-cf4621e9b2cd">
 
 

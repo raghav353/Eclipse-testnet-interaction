@@ -25,7 +25,7 @@ sudo apt upgrade -y
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 Reply with ```1```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/fab76dcb-58a7-434d-a562-84b0c114ee68)
+<img width="551" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/774b93db-a96a-4a63-9de7-658340b86c8a">
 
 
 ### Environment Variable  
@@ -33,7 +33,7 @@ Reply with ```1```
 ```
 . "$HOME/.cargo/env"
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/88642b35-113d-4533-a90a-504b776eab79)
+<img width="737" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/10418c58-dd67-42e3-85ed-fa7504c5e102">
 
 
 ### check ```RUST version```
@@ -48,20 +48,20 @@ rustc --version
 ```
 sh -c "$(curl -sSfL https://release.solana.com/stable/install)"
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/d6899685-c5f1-4847-b2e9-961110f7ac27)
+<img width="819" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/d0e5f173-2789-4992-95ba-857ad8fd14bd">
 
 
 ```
 export PATH="/root/.local/share/solana/install/active_release/bin:$PATH"
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/d84a6528-13c8-4fa0-aa2f-713e2711019d)
+<img width="584" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/7ab8ff70-b57f-4c52-bb93-4afc6e9a74ca">
 
 
 ### check version if installed properly 
 ```
 solana --version
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/0bc063f2-bf08-48f5-a8d4-aeb40a908085)
+<img width="469" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/a63c08db-d6b7-4764-8cb1-5d0feb785d3c">
 
 
 
@@ -83,7 +83,7 @@ node -v
 npm --version
 yarn --version
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/d092269e-ef9b-4dd8-9d2d-44b1960f8163)
+<img width="803" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/18b47089-dbb8-436c-bcdc-793c2feafc21">
 
 
 
@@ -92,7 +92,7 @@ yarn --version
 ```
 cargo install --git https://github.com/project-serum/anchor anchor-cli --locked
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/9b298626-c729-4f3c-8a97-0fba972d7494)
+<img width="811" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/8d8b3814-9928-4470-a89a-5294d1c466b1">
 
 
 -------------------

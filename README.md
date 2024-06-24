@@ -144,15 +144,15 @@ solana address
 ### Request Sepolia gas on your main wallet: 
 MINE SEPOLIA GAS  ---https://sepolia-faucet.pk910.de/
 Request from Quicknode ---  https://faucet.quicknode.com/ethereum/sepolia 
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/3ec18a31-9b77-4fc7-876e-bd383d10ad1b)
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/7196a7bd-0b77-43db-8640-9d1434c6ba52)
+<img width="911" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/d381cc00-a47b-4b09-952e-f99159cdee4f">
+<img width="901" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/29e02b7c-717c-4a26-b9b7-3b04e933075d">
 
 
 
 
 ---------------------
 ### Send Sepolia ETH to the wallet imported 
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/9658de88-4fa4-47a5-b667-21ea2db684f6)
+<img width="288" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/e582ddd1-0ba6-4c8d-a228-87e2aadedc57">
 
 ---------------
 

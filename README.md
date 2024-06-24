@@ -108,7 +108,7 @@ anchor --version
 ```
 solana-keygen new -o /path-to-wallet/my-wallet.json
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/5ebb84f3-8c57-4fdd-af89-b72d58373470)
+<img width="505" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/2caf0af0-0f9c-4e9b-bb51-c1ab83470649">
 
 
 Press ```ENTER``` ans save the Info 
@@ -121,7 +121,7 @@ Press ```ENTER``` ans save the Info
 ```
 solana config set --url https://testnet.dev2.eclipsenetwork.xyz/
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/5e778d24-6df2-4ce9-a152-6e4d2fa8bc27)
+<img width="553" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/a3d46a1c-a6ed-4e62-bd1e-ee92218ffb2f">
 
 ```
 solana config set --keypair /path-to-wallet/my-wallet.json
@@ -139,7 +139,7 @@ solana address
 # Import the same seedphrase to Metamask/Rabby Wallet --- for we are gonna send Ethereum Sepolia to it 
 ## I renamed it so i won't mix it up with my wallet 
 
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/e6a55210-d6a4-45de-a708-d599238bd841)
+<img width="709" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/18361a71-7e46-426c-8688-f01b2255577f">
 
 ### Request Sepolia gas on your main wallet: 
 MINE SEPOLIA GAS  ---https://sepolia-faucet.pk910.de/
@@ -163,7 +163,7 @@ Request from Quicknode ---  https://faucet.quicknode.com/ethereum/sepolia
 ```
 git clone https://github.com/Eclipse-Laboratories-Inc/testnet-deposit
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/9361e940-f603-400c-8cfa-87f244566a9c)
+<img width="574" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/627db375-b9a7-48b7-8016-23cbae7ffebe">
 
 
 ### Navigate to ```testnet-deposit```
@@ -174,7 +174,7 @@ cd testnet-deposit
 ```
 npm install
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/dd7d8ece-6657-4ee4-b5a6-c78e828b967f)
+<img width="637" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/6ec421e8-0879-4c4b-91c1-4c080285a250">
 
 
 
@@ -199,7 +199,7 @@ nvm use --lts
 ```
 node -v
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/1b077a5c-a23d-4b85-9ea0-397ead36f43f)
+<img width="808" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/68248116-af93-45a7-a4df-2c63851ca106">
 
 
 
@@ -219,9 +219,9 @@ node deposit.js [Solana Address] 0x7C9e161ebe55000a3220F972058Fb83273653a6e [Amo
 ------------------
 ### E.g  End product will look like this 
 ```
-node deposit.js Cz2CCCtzqUAB97NAkVM6FzdF6d3EPx7pa4pN1JaWwrxz 0x7C9e161ebe55000a3220F972058Fb83273653a6e 3000000 3000000 0xeeeeeeeeeeeeeeeeeeprivatekey https://rpc.sepolia.org/
+node deposit.js 7m3wLFNgA2wzG7MvY8ij3SpE8sU51Fc15rXA5UwCXHkR 0x7C9e161ebe55000a3220F972058Fb83273653a6e 3000000 3000000 0xeeeeeeeeeeeeeeeeeeprivatekey https://rpc.sepolia.org/
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/e1b43551-6eaf-4a2a-81fb-9312c775d47e)
+<img width="466" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/21722a9b-caf6-4e0b-9f4d-fd5bb95bcc6c">
 
 ### REPEAT PROCESS 3 - 4 TIMES 
 
@@ -230,7 +230,7 @@ node deposit.js Cz2CCCtzqUAB97NAkVM6FzdF6d3EPx7pa4pN1JaWwrxz 0x7C9e161ebe55000a3
 ```
 solana balance
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/626224c9-d871-4fc9-bb3d-f7560fbb7f56)
+<img width="298" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/239d5586-4ca3-48ed-b62f-2d338a84cf2d">
 
 
 ------------------
@@ -238,7 +238,7 @@ solana balance
 ```
 spl-token create-token --enable-metadata -p TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/c677fb79-afdf-479c-9940-513760fd14c6)
+<img width="812" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/142dbc86-01db-4c1b-926a-9f258a0866e0">
 
 
 
@@ -248,21 +248,21 @@ spl-token create-account <YOUR_TOKEN_ADDRESS>
 ```
 
 ### Replace with your token address previously deplyed from above step 
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/14b85f96-e975-41ee-aebb-de86ff38203d)
+<img width="633" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/63757d78-9dfb-4d06-9dac-58889244c92c">
 
 
 ### Mint token
 ```
 spl-token mint <YOUR_TOKEN_ADDRESS> 10000
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/05eba99a-cf61-42cf-a69d-ea3d8a04b8c2)
+<img width="610" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/32d3286c-3ab8-4e09-8bf0-2463e533bbfe">
 
 
 ### Check token balance 
 ```
 spl-token accounts
 ```
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/e5308f99-62ad-457a-89ea-a8fed07110ef)
+<img width="414" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/520387e5-ae7b-4289-9e37-4b48f28d3663">
 
 
 
@@ -278,7 +278,7 @@ spl-token accounts
 Fill form: 
 https://docs.google.com/forms/d/e/1FAIpQLSfJQCFBKHpiy2HVw9lTjCj7k0BqNKnP6G1cd0YdKhaPLWD-AA/viewform?pli=1
 
-![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/ee9dbd6e-1517-4aa8-a2b1-9ebac3f743ac)
+<img width="344" alt="image" src="https://github.com/raghav353/Eclipse-testnet-interaction/assets/151916837/3ac3e33e-0aa9-4013-a83c-46017f247883">
 
 
 
